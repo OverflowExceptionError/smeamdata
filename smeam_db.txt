@@ -1,0 +1,2 @@
+Smorce SDK,loadable,SDKEditor
+Smorce SDK Base 2022,pck,sdk_base_2022
